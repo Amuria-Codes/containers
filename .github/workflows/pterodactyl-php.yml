@@ -40,4 +40,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/legabi/containers:pterodactyl-php-${{ matrix.version }}
+            ghcr.io/amuria-codes/containers:pterodactyl-php-${{ matrix.version }}
